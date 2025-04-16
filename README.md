@@ -24,5 +24,5 @@ Make sure these are installed before running:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yDylan1Terrell/hangman-app.git
+git clone https://github.com/Dylan1Terrell/hangman-v2.git
 cd hangman-app
