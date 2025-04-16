@@ -5,7 +5,7 @@ This is a fullstack hangman game that tracks your winning stats in a database. J
 ---
 
  Features
-- Classic hangman gameplay 🎯
+- Classic hangman gameplay 
 - React frontend with reusable components
 - Node backend + MongoDB to store win percentages
 - Unit tested for stability
